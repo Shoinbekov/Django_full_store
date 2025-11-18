@@ -1,0 +1,27 @@
+# Django
+Django==5.2.5
+
+# Django REST Framework
+djangorestframework==3.14.0
+
+# CORS Headers
+django-cors-headers==4.3.1
+
+# Django Filter (для фильтрации в API)
+django-filter==23.5
+
+# Pillow (для работы с изображениями, если нужно)
+Pillow==10.2.0
+
+# Django Unfold (красивая админка - БОНУС)
+django-unfold==0.20.0
+
+# Опционально: для работы с PostgreSQL
+# psycopg2-binary==2.9.9
+
+# Опционально: для работы с MySQL
+# mysqlclient==2.2.1
+
+# Опционально: для production
+# gunicorn==21.2.0
+# whitenoise==6.6.0
